@@ -1,4 +1,4 @@
-# Speedtr Project
+# Speed Calculator Project
 
 ## Overview
 This project is a Python application that serves as a template for further development. It includes a main entry point and demonstrates basic functionality.
